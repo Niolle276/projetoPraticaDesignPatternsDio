@@ -1,2 +1,3 @@
 # projeto_pratica_design_patterns
- projeto-dio-design
+"Aplicando design patterns na prática com C#"
+
